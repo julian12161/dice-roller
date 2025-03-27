@@ -1,0 +1,19 @@
+{
+  "name": "dice-roller",
+  "version": "1.0.0",
+  "description": "rolls dice",
+  "main": "dice-roller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julian12161/dice-roller.git"
+  },
+  "author": "julian12161",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julian12161/dice-roller/issues"
+  },
+  "homepage": "https://github.com/julian12161/dice-roller#readme"
+}
