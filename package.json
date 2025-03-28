@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/julian12161/dice-roller/issues"
   },
-  "homepage": "https://github.com/julian12161/dice-roller#readme"
+  "homepage": "https://github.com/julian12161/dice-roller#readme",
+  "dependencies": {
+    "@colors/colors": "^1.6.0"
+  }
 }
